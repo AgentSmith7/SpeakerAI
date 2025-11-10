@@ -9,6 +9,15 @@ This document contains links to Google Colab notebooks for SpeakerAI project.
 - **Description**: Main Colab notebook for SpeakerAI project
 - **Last Updated**: 2025
 
+### Additional Colab Notebooks
+- **Link**: [Colab Notebook 2](https://colab.research.google.com/drive/1uy6KSwfuJpH5RTusl1YHRg0IthNZORt6?usp=sharing)
+- **Description**: Additional Colab notebook for SpeakerAI project
+- **Last Updated**: 2025
+
+- **Link**: [Colab Notebook 3](https://colab.research.google.com/drive/1DtSpymc4KFKayJyRjCgKOixIHUO4mn6a?usp=sharing)
+- **Description**: Additional Colab notebook for SpeakerAI project
+- **Last Updated**: 2025
+
 ---
 
 ## Usage
